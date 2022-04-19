@@ -1,6 +1,6 @@
 {
   "name": "eink",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Library to send commands to eink devices, like boox mira",
   "main": "index.js",
   "type": "module",
@@ -12,6 +12,7 @@
     "boox",
     "mira"
   ],
+  "repository": "github:osdroid/eink-devices",
   "author": "osdroid",
   "license": "ISC",
   "dependencies": {
