@@ -1,6 +1,6 @@
 {
   "name": "eink",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Library to send commands to eink devices, like boox mira",
   "main": "index.js",
   "type": "module",
