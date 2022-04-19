@@ -1,0 +1,20 @@
+{
+  "name": "eink",
+  "version": "0.0.1",
+  "description": "Library to send commands to eink devices, like boox mira",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eink",
+    "boox",
+    "mira"
+  ],
+  "author": "osdroid",
+  "license": "ISC",
+  "dependencies": {
+    "node-hid": "^2.1.1"
+  }
+}
